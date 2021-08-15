@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="axenvacation" version="10000">
+  <word key="__app_axenvacation" js="0">(aXen) Vacation</word>
+  <word key="menu__axenvacation_vacation" js="0">Urlopy</word>
+  <word key="menu__axenvacation_vacation_settings" js="0">Ustawienia</word>
+  <word key="aXenVacation_exclude_group" js="0">Wyklucz grupy</word>
+  <word key="aXenVacation_settings" js="0">Włączyć urlop?</word>
+  <word key="aXenVacation_settings_title" js="0">Urlop</word>
+  <word key="aXenVacation_settings_date" js="0">Data</word>
+  <word key="aXenVacation_settings_reason" js="0">Powód</word>
+  <word key="aXenVacation_error_802" js="0">Nie możesz ustawić daty zakończenia urlopu przed jego rozpoczęciem</word>
+  <word key="aXenVacation_error_803" js="0">Nie możesz zacząć wakacji wcześniej niż dzisiaj</word>
+  <word key="aXenVacation_max_days" js="0">Maksymalna liczba dni urlopu</word>
+  <word key="aXenVacation_max_days_desc" js="0">0 - Oznacza nieograniczoną liczbę dni</word>
+  <word key="aXenVacation_error_804" js="0">Nie możesz wziąć urlopu dłużej niż: {# [1:dzień][?:dni]}</word>
+  <word key="aXenVacation_admin_member_id" js="0">Użytkownik</word>
+  <word key="aXenVacation_admin_start" js="0">Start</word>
+  <word key="aXenVacation_admin_end" js="0">Koniec</word>
+  <word key="aXenVacation_admin_status" js="0">Status</word>
+  <word key="aXenVacation_admin_reason" js="0">Powód</word>
+  <word key="aXenVacation_disabled" js="0">Wyłączony</word>
+  <word key="aXenVacation_waiting_to_start" js="0">Oczekuje na start</word>
+  <word key="aXenVacation_active" js="0">Aktywny</word>
+  <word key="menu__axenvacation_vacation_members" js="0">Użytkownicy</word>
+  <word key="aXenVacation_vacation_add" js="0">Dodaj urlop</word>
+  <word key="aXenVacation_vacation_edit" js="0">Edytuj urlop</word>
+  <word key="aXenVacation_form_member" js="0">Użytkownik</word>
+  <word key="aXenVacation_form_date" js="0">Data</word>
+  <word key="aXenVacation_form_reason" js="0">Powód</word>
+  <word key="aXenVacation_icon_desc" js="0">Urlop</word>
+  <word key="modcp_vacation" js="0">Lista urlopów</word>
+  <word key="aXenVacation_modcp_reason" js="0">Powód</word>
+  <word key="aXenVacation_modcp_start" js="0">Start</word>
+  <word key="aXenVacation_modcp_end" js="0">Koniec</word>
+  <word key="aXenVacation_settings_reason_show" js="0">Pokazać publicznie powód?</word>
+  <word key="aXenVacation_settings_reason_show_desc" js="0">Zaznacz opcję, aby ukryć powód dla użytkowników. Administracja nadal będzie go widzieć.</word>
+  <word key="aXenVacation_admin_reason_show" js="0">Pokazać powód?</word>
+  <word key="aXenVacation_show" js="0">Widoczny</word>
+  <word key="aXenVacation_hide" js="0">Ukryty</word>
+  <word key="aXenVacation_waiting" js="0">Oczekuje</word>
+  <word key="aXenVacation_last_vacation" js="0">Twój ostatni urlop:</word>
+  <word key="aXenVacation_planned_vacation" js="0">Zaplanowałeś już urlop. Nadal możesz przełożyć swój urlop.</word>
+  <word key="aXenVacation_active_vacation" js="0">Nie możesz zmienić daty urlopu w okresie urlopowym. Twoje wakacje dobiegają końca:</word>
+  <word key="aXenVacation_form_reason_show" js="0">Pokazać powód publicznie?</word>
+  <word key="aXenVacation_form_reason_show_desc" js="0">Zaznacz opcję, aby ukryć powód dla użytkowników. Administracja nadal będzie go widzieć.</word>
+  <word key="aXenVacation_exclude_group_desc" js="0">Uprawnienia są sprawdzane tylko na głównych grupach!</word>
+  <word key="aXenVacation_settings_rules_max_days" js="0">Maksymalna liczba dni urlopu</word>
+  <word key="aXenVacation_settings_rules_max_days_desc" js="0">0 - Oznacza nieograniczoną liczbę dni.</word>
+  <word key="aXenVacation_settings_rules_from_last_vacation" js="0">Minimalny odstęp czasu od ostatnich wakacji</word>
+  <word key="aXenVacation_settings_rules_from_last_vacation_desc" js="0">0 - Oznacza nieograniczoną liczbę dni.</word>
+  <word key="aXenVacation_settings_rules" js="0">Zasady</word>
+  <word key="aXenVacation_from_last_vacation" js="0">Nie możesz wziąć urlopu wcześniej niż {# [1:dzień][?:dni]} po zakończeniu poprzedniego urlopu!</word>
+  <word key="aXenVacation_profile_active" js="0">Ten użytkownik jest na urlopie. Czas odpowiedzi może być opóźniony. Urlop do:</word>
+  <word key="aXenVacation_profile_reason" js="0">Powód:</word>
+  <word key="aXenVacation_profile_planned" js="0">Ten użytkownik zaplanował urlop na następujące dni:</word>
+  <word key="aXenVacation_admin_status_0" js="0">Wyłączony</word>
+  <word key="aXenVacation_admin_status_1" js="0">Oczekujący</word>
+  <word key="aXenVacation_admin_status_2" js="0">Aktywny</word>
+  <word key="aXenVacation_admin_all" js="0">Wszystkie</word>
+  <word key="aXenVacation_admin_sort_0" js="0">Najnowszy</word>
+  <word key="aXenVacation_admin_sort_1" js="0">Start</word>
+  <word key="aXenVacation_admin_sort_2" js="0">Koniec</word>
+  <word key="aXenVacation_settings_table" js="0">Tabelka</word>
+  <word key="aXenVacation_settings_table_limit" js="0">Limit pozycji</word>
+  <word key="aXenVacation_settings_table_limit_desc" js="0">Maksymalna liczba pozycji na stronie.</word>
+  <word key="aXenVacation_settings_icon" js="0">Ikona Font Awesome</word>
+  <word key="aXenVacation_settings_icon_desc" js="0"><![CDATA[Ikona wyświetlana obok nazwy użytkownika, gdy użytkownik ma aktywny urlop.<br />Domyślnie: <span style="font-weight: bold;">fa fa-umbrella</span>]]></word>
+  <word key="modperms__axenvacation_Members" js="0">(aXen) Vacation</word>
+  <word key="can_view_vacation" js="0">Może wyświetlić listę urlopów?</word>
+  <word key="can_view_vacation_reason" js="0">Może widzieć powód urlopów?</word>
+  <word key="aXenVacation_can_view_vacation_reason_mod" js="0">Użytkownik ukrył powód przed innymi użytkownikami, ale masz uprawnienia do jego odczytania</word>
+  <word key="aXenVacation_admin_id" js="0">ID</word>
+  <word key="aXenVacation_log_edit" js="0">Edytowano urlop dla użytkownika: %s</word>
+  <word key="aXenVacation_log_add" js="0">Dodano urlop dla użytkownika: %s</word>
+  <word key="aXenVacation_log_delete" js="0">Usunięto urlop. ID: %s</word>
+  <word key="r__aXenVacation_permissions_admin_list_show" js="0">Może zobaczyć listę urlopów?</word>
+  <word key="r__aXenVacation_permissions_admin_list_add" js="0">Może dodawać użytkownika do listy urlopów?</word>
+  <word key="r__aXenVacation_permissions_admin_list_edit" js="0">Może edytować użytkownika na liście urlopów?</word>
+  <word key="r__aXenVacation_permissions_admin_list_delete" js="0">Może usunąć użytkownika z listy urlopów?</word>
+  <word key="aXenVacation_pm_active" js="0">jest na urlopie. Może wystąpić opóźnienie w odpowiedzi na tę wiadomość. Wakacje do</word>
+ </app>
+</language>

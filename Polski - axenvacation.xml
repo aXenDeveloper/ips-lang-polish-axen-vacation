@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="axenvacation" version="10000">
+ <app key="axenvacation" version="10003">
   <word key="__app_axenvacation" js="0">(aXen) Vacation</word>
   <word key="menu__axenvacation_vacation" js="0">Urlopy</word>
   <word key="menu__axenvacation_vacation_settings" js="0">Ustawienia</word>
@@ -12,7 +12,6 @@
   <word key="aXenVacation_error_802" js="0">Nie możesz ustawić daty zakończenia urlopu przed jego rozpoczęciem</word>
   <word key="aXenVacation_error_803" js="0">Nie możesz zacząć wakacji wcześniej niż dzisiaj</word>
   <word key="aXenVacation_max_days" js="0">Maksymalna liczba dni urlopu</word>
-  <word key="aXenVacation_max_days_desc" js="0">0 - Oznacza nieograniczoną liczbę dni</word>
   <word key="aXenVacation_error_804" js="0">Nie możesz wziąć urlopu dłużej niż: {# [1:dzień][?:dni]}</word>
   <word key="aXenVacation_admin_member_id" js="0">Użytkownik</word>
   <word key="aXenVacation_admin_start" js="0">Start</word>
@@ -45,10 +44,8 @@
   <word key="aXenVacation_form_reason_show" js="0">Pokazać powód publicznie?</word>
   <word key="aXenVacation_form_reason_show_desc" js="0">Zaznacz opcję, aby ukryć powód dla użytkowników. Administracja nadal będzie go widzieć.</word>
   <word key="aXenVacation_exclude_group_desc" js="0">Uprawnienia są sprawdzane tylko na głównych grupach!</word>
-  <word key="aXenVacation_settings_rules_max_days" js="0">Maksymalna liczba dni urlopu</word>
-  <word key="aXenVacation_settings_rules_max_days_desc" js="0">0 - Oznacza nieograniczoną liczbę dni.</word>
-  <word key="aXenVacation_settings_rules_from_last_vacation" js="0">Minimalny odstęp czasu od ostatnich wakacji</word>
-  <word key="aXenVacation_settings_rules_from_last_vacation_desc" js="0">0 - Oznacza nieograniczoną liczbę dni.</word>
+  <word key="aXenVacation_settings_rules_max_days" js="0">Włączyć maksymalny czas urlopu?</word>
+  <word key="aXenVacation_settings_rules_from_last_vacation" js="0">Włączyć blokadę minimalnej liczby dni od ostatniego urlopu?</word>
   <word key="aXenVacation_settings_rules" js="0">Zasady</word>
   <word key="aXenVacation_from_last_vacation" js="0">Nie możesz wziąć urlopu wcześniej niż {# [1:dzień][?:dni]} po zakończeniu poprzedniego urlopu!</word>
   <word key="aXenVacation_profile_active" js="0">Ten użytkownik jest na urlopie. Czas odpowiedzi może być opóźniony. Urlop do:</word>
@@ -65,7 +62,7 @@
   <word key="aXenVacation_settings_table_limit" js="0">Limit pozycji</word>
   <word key="aXenVacation_settings_table_limit_desc" js="0">Maksymalna liczba pozycji na stronie.</word>
   <word key="aXenVacation_settings_icon" js="0">Ikona Font Awesome</word>
-  <word key="aXenVacation_settings_icon_desc" js="0"><![CDATA[Ikona wyświetlana obok nazwy użytkownika, gdy użytkownik ma aktywny urlop.<br />Domyślnie: <span style="font-weight: bold;">fa fa-umbrella</span>]]></word>
+  <word key="aXenVacation_settings_icon_desc" js="0"><![CDATA[Ikona wyświetlana obok nazwy użytkownika, gdy użytkownik ma aktywny urlop.<br />Wsparcie dla <a href="https://invisioncommunity.com/files/file/9439-axen-font-awesome-5-in-ips/">(aXen) Font Awesome 5 in IPS</a><br />Domyślnie: <span style="font-weight: bold;">fa fa-umbrella</span>]]></word>
   <word key="modperms__axenvacation_Members" js="0">(aXen) Vacation</word>
   <word key="can_view_vacation" js="0">Może wyświetlić listę urlopów?</word>
   <word key="can_view_vacation_reason" js="0">Może widzieć powód urlopów?</word>
@@ -79,5 +76,14 @@
   <word key="r__aXenVacation_permissions_admin_list_edit" js="0">Może edytować użytkownika na liście urlopów?</word>
   <word key="r__aXenVacation_permissions_admin_list_delete" js="0">Może usunąć użytkownika z listy urlopów?</word>
   <word key="aXenVacation_pm_active" js="0">jest na urlopie. Może wystąpić opóźnienie w odpowiedzi na tę wiadomość. Wakacje do</word>
+  <word key="aXenVacation_settings_disable_vacation" js="0">Zakończ urlop teraz</word>
+  <word key="aXenVacation_settings_disable_vacation_desc" js="0">Twój urlop skończy się w dzisiejszym dniu</word>
+  <word key="aXenVacation_settings_disable_vacation_done" js="0">Zmieniono status urlopu na zakończony</word>
+  <word key="aXenVacation_settings_rules_max_days_number" js="0">Maksymalna liczba dni urlopu</word>
+  <word key="aXenVacation_settings_rules_from_last_vacation_number" js="0">Minimalne dni od ostatniego urlopu</word>
+  <word key="aXenVacation_settings_tasks" js="0">Zadania</word>
+  <word key="aXenVacation_settings_tasks_clear" js="0">Włączyć czyszczenie archiwum?</word>
+  <word key="aXenVacation_settings_tasks_clear_desc" js="0">Usuwa archiwalne urlopy z bazy danych</word>
+  <word key="aXenVacation_settings_tasks_clear_number" js="0">Sprzątanie urlopów (po X dniach)</word>
  </app>
 </language>

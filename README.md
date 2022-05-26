@@ -14,4 +14,4 @@
 
 ## 🔌 Download from other sources
 
-- [invisionize.pl](https://forum.invisionize.pl/files/file/835-axen-vacation/)
+- [invisionize.pl](https://forum.invisionize.pl/files/file/836-axen-vacation-polish-translation/)

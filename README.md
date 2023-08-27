@@ -2,7 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [(aXen) Vacation 1.1.0.1](https://invisioncommunity.com/files/file/9928-axen-vacation/)
+- [(aXen) Vacation 1.1.0.1](https://forum.invisionize.pl/files/file/835-axen-vacation/)
 
 ## 🧰 Install and update
 
